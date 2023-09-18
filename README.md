@@ -10,7 +10,7 @@ Features:
 -> Fetch via API
 
 Steps to use the web App:
-Simply search for any images on the search box and the system will generate images relevant to your search.. then you can clock on the description and download the image in HD.
+Simply search for any images on the search box and the system will generate images relevant to your search.. then you can click on the description and download the image in HD.
 
 Tips:
 You can host this king of app for free on cloudflare pages.
